@@ -5,12 +5,12 @@
 
 - 📫 How to reach me **abdurrohmanazis@gmail.com**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">👨‍💻 Connect with me :</h2>
 <p align="left">
 <a href="https://discord.gg/1021009213801123900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1021009213801123900" height="45" width="45" /></a> <a href="https://instagram.com/ar.azis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ar.azis_" height="40" width="40" /></a>
 </p>
 
-<h2 align="left">🛠️Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
