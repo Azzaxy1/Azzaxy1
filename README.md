@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **React Js**
 
 - 📫 How to reach me **abdurrohmanazis@gmail.com**
+- 👨‍💻 All of my projects are available at [https://abdurrohmanazis.vercel.app/](https://abdurrohmanazis.vercel.app/) **(Still on progress)**
 
 <h2 align="left">👨‍💻 Connect with me :</h2>
 <p align="left">
@@ -35,7 +36,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
   <img width="12" />
