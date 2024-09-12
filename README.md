@@ -8,7 +8,8 @@
 
 <h2 align="left">👨‍💻 Connect with me :</h2>
 <p align="left">
-<a href="https://discord.gg/1021009213801123900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1021009213801123900" height="45" width="45" /></a> <a href="https://instagram.com/ar.azis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ar.azis_" height="40" width="40" /></a>
+  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/1021009213801123900) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/ar.azis_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdurrohmanazis/) 
 </p>
 
 <h2 align="left">🛠️ Tech Stack</h2>
