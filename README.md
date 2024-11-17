@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azis</h1>
 <h3 align="center">A passionate frontend developer from Serang, ID</h3>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Next Js** and **Vue Js**
 
 - 📫 How to reach me **abdurrohmanazis@gmail.com**
 - 👨‍💻 All of my projects are available at [https://abdurrohmanazis.vercel.app/](https://abdurrohmanazis.vercel.app/) **(Still on progress)**
