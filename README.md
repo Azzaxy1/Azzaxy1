@@ -1,7 +1,7 @@
-# Hi 👋, I'm Azis
+<h1 align="center">Hi 👋, I'm Azis</h1>
 <h3 align="center">A passionate Software Engineer from Banten, ID</h3>
 
-- 🌱 I'm currently learning **Next Js** and **Vue Js**
+- 🌱 I'm currently learning **Next JS**, **Laravel** and **Expo**
 - 📫 How to reach me **abdurrohmanazis@gmail.com**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abdurrohmanazis.vercel.app/)
 
@@ -99,6 +99,10 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql" />
   </a>
+  <img width="12" />
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  </a>
 </div>
 
 ### ☁️ Cloud
@@ -135,7 +139,7 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
   </a>
-</div>
+  </div>
 
 ---
 
