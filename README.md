@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azis</h1>
+<h1 align="center">Hi 👋, I'm Azzaxy</h1>
 <h3 align="center">A passionate Software Engineer from Banten, ID</h3>
 
 - 🌱 I'm currently learning **Next JS**, **Laravel** and **Expo**
@@ -90,6 +90,10 @@
   <img width="12" />
   <a href="https://expressjs.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
+  </a>
+  <img width="12" />
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   </a>
   <img width="12" />
   <a href="https://www.mongodb.com/" target="_blank">
