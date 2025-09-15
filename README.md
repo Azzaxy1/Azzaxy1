@@ -2,7 +2,7 @@
 
 ### Informatics Engineering Graduate | Best Thesis Award Recipient | Software Engineer
 
-An Informatics Engineering graduate specializing in building high-performance web and mobile applications. As the recipient of the **Best Thesis Award**, I have a proven ability to deliver high-quality, well-researched software solutions.
+An Informatics Engineering graduate specializing in building web and mobile applications. As the recipient of the **Best Thesis Award**, I have a proven ability to deliver high-quality, well-researched software solutions.
 
 My core expertise lies in the **React ecosystem (React.js, Next.js, React Native)** and TypeScript, with extensive experience in creating scalable applications and integrating RESTful APIs.
 
@@ -14,9 +14,9 @@ My core expertise lies in the **React ecosystem (React.js, Next.js, React Native
 
 ## 👨‍💻 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrohmanazis/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1021009213801123900)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar.azis_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrohmanazis/)
 
 ---
 
