@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Azzaxy</h1>
-<h3 align="center">A passionate Software Engineer from Banten, ID</h3>
+# Hi there, I'm Abdurrohman Azis 👋
 
-- 🌱 I'm currently learning **Next JS**, **Laravel** and **Expo**
-- 📫 How to reach me **abdurrohmanazis@gmail.com**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abdurrohmanazis.site)
+### Informatics Engineering Graduate | Best Thesis Award Recipient | Software Engineer
+
+An Informatics Engineering graduate specializing in building high-performance web and mobile applications. As the recipient of the **Best Thesis Award**, I have a proven ability to deliver high-quality, well-researched software solutions.
+
+My core expertise lies in the **React ecosystem (React.js, Next.js, React Native)** and TypeScript, with extensive experience in creating scalable applications and integrating RESTful APIs.
+
+- 🔭 I’m currently open to new opportunities as a **Frontend or Mobile Developer**.
+- 💼 All of my professional projects are detailed on my **[Portfolio Website](https://abdurrohmanazis.site)**.
+- 📫 You can reach me at: **abdurrohmanazis@gmail.com**
 
 ---
 
@@ -16,26 +21,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
-### 🧠 Programming Languages
-
-<div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  </a>
-  <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  </a>
-</div>
 
 ### 🎨 Front End
 
@@ -62,6 +47,10 @@
   <img width="12" />
   <a href="https://redux.js.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
+  </a>
+  <img width="12" />
+  <a href="https://tanstack.com/query/latest" target="_blank">
+    <img src="https://miro.medium.com/v2/resize:fit:380/1*4g9gB2zUU9x1bZTOJXtZWA.png" height="40" alt="redux" />
   </a>
   <img width="12" />
   <a href="https://vuejs.org/" target="_blank">
@@ -121,27 +110,31 @@
   </a>
 </div>
 
-### 🧰 Software and Tools
+### 🧰 Testing and Tools
 
 <div align="left">
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   </a>
   <img width="12" />
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  </a>
-  <img width="12" />
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  </a>
-  <img width="12" />
-  <a href="https://trello.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello" />
+  <a href="https://testing-library.com/" target="_blank">
+    <img src="https://testing-library.com/img/octopus-128x128.png" height="40" alt="jest logo"  />
   </a>
   <img width="12" />
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+  </a>
+  <img width="12" />
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
+  </a>
+  <img width="12" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
   </a>
   </div>
 
