@@ -1,8 +1,8 @@
 # Hi there, I'm Abdurrohman Azis 👋
 
-### Informatics Engineering Graduate | Best Thesis Award Recipient | Software Engineer
+### Fresh Graduate Informatics Engineering | Best Thesis Award Recipient | Software Engineer
 
-An Informatics Engineering graduate specializing in building web and mobile applications. As the recipient of the **Best Thesis Award**, I have a proven ability to deliver high-quality, well-researched software solutions.
+A Fresh Graduate of Informatics Engineering specializing in building web and mobile applications. As the recipient of the **Best Thesis Award**, I have a proven ability to deliver high-quality, well-researched software solutions.
 
 My core expertise lies in the **React ecosystem (React.js, Next.js, React Native)** and TypeScript, with extensive experience in creating scalable applications and integrating RESTful APIs.
 
