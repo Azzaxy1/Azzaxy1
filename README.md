@@ -85,6 +85,14 @@ MERN Stack, Redux, Tailwind CSS
 
 ---
 
+## 📚 Currently Learning
+
+- Frontend Architecture
+- Scalable FE Patterns
+- System Design
+- Performance Optimization
+- Testing Strategy
+
 ## 📫 Connect
 
 * Portfolio: https://abdurrohmanazis.site
